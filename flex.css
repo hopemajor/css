@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-image: url("background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: auto;
+}
+.flexbox section {
+  height: 250px;
+  width: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: flex-end 43;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  text-align: center;
+  margin-top: auto;
+  background: white;
+  width: 100%;
+}
+.man {
+  background-image: url("man.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cat {
+  background-image: url("cat.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.office {
+  background-image: url("office\ woman.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fish {
+  background-image: url("fish.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.car {
+  background-image: url("car.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.house {
+  background-image: url("house.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.chair {
+  background-image: url("chair.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.couch {
+  background-image: url("couch.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
